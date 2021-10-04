@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#API KEYS
+api_keys.py
+
+#Other files that we can ignore
+API_practice.ipynb
+random_numbers.ipynb
+
 # C extensions
 *.so
 
